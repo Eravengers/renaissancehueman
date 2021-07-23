@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5505,
+  "cSpell.words": [
+    "preconnect",
+		"renaissancehueman.com",
+		"renaissancehueman"
+	],
+	"workbench.editor.highlightModifiedTabs": true,
+	"extensions.webWorker": true
+}
